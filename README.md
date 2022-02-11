@@ -22,7 +22,8 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-- [ ] List anything else that you can get done to improve the app functionality!
+* [x] User can change the default currency. When the app is reopened the currency will be the default currency.
+* [x] User can change the default tip amount. When the app is reopened the currency will be the default tip amount.
 
 ## Video Walkthrough
 
@@ -34,7 +35,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+None
 
 ## License
 
