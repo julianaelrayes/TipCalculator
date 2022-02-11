@@ -4,7 +4,7 @@
 
 Submitted by: **Juliana El Rayes**
 
-Time spent: **30** hours spent in total
+Time spent: **10** hours spent in total
 
 ## User Stories
 
