@@ -17,12 +17,10 @@ Here's a walkthrough of implemented user stories:
 
 <img src='https://github.com/julianaelrayes/tip/blob/v/JulianaElRayes_.gif' title='Video Walkthrough' width='250' alt='Video Walkthrough' />
 
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
-
 
 ## License
 
-    Copyright [yyyy] [Juliana El Rayes]
+    Copyright [Juliana El Rayes]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
