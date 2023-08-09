@@ -15,8 +15,7 @@
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://github.com/julianaelrayes/tip/blob/v/JulianaElRayes_.gif' title='Video Walkthrough' width='250' alt='Video Walkthrough' />
-
+<img src='https://github.com/julianaelrayes/TipCalculator/blob/55892d034640be1727954d975ee5b4da33a73e09/JulianaElRayes_.gif' title='Video Walkthrough' width='250' alt='Video Walkthrough' />
 
 ## License
 
